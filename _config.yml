@@ -1,0 +1,10 @@
+title: VPNTechBD
+description: Best VPN services for Bangladesh, tech tips, online privacy and internet security.
+baseurl: "/vpntechbd"
+url: "https://bb8bdt-ops.github.io"
+lang: bn
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
